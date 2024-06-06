@@ -34,7 +34,7 @@ Welcome to the Line Follower Robot project developed by the CoU Bots Team. This 
    ```bash
    git clone https://github.com/tousifo/LFR_QTR.git
 
-   ## How It Works
+## How It Works!
 
 The Line Follower Robot uses IR sensors to detect the line and the PID algorithm to adjust the motor speeds for smooth and accurate line tracking. The PID controller helps in minimizing the error by adjusting the control inputs to the motors.
 
@@ -71,10 +71,6 @@ PID stands for Proportional-Integral-Derivative. It is a control loop mechanism 
 ## Contributing
 
 We welcome contributions from the community. If you have any suggestions or improvements, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
